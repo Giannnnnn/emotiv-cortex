@@ -88,7 +88,7 @@ This section describe structure overview, core classes and examples. The C# Cort
 * Notes: 
 1) Press **Esc** to flush data to the output file and exit the program.
 2) Calibration is done automatically on the first quaternion received.
-3) All motion and command data is saved to `MotionDataLogs.csv`, which is overwritten on each run.
+3) All motion and command data is saved to `NeuroGamingDataLogs.csv`, which is overwritten on each run.
 4) Each mental command includes a confidence value (`force`) from 0 (low intensity) to 1 (high intensity).
 5) Additional mental commands can be added by extending the `ConvertMentalCommandToMouseAction` method.
 
