@@ -1,7 +1,6 @@
 # MentalCommandsLogger: Log Mental Commands from Emotiv Epoc X
 
 MentalCommandsLogger is a C# project that extends an Emotiv Cortex SDK example to log mental command data from an Emotiv headset to a CSV file. Using WebSocket communication via the Cortex SDK, it authenticates with the Emotiv Cloud, subscribes to the mental command (`com`) data stream, and saves the data with timestamps to `MentalCommandsLogger.csv`. This project is ideal for researchers, developers, or hobbyists exploring brain-computer interfaces (BCI) or analyzing mental command patterns.
-Originally targeting .NET Framework, this project has been upgraded to .NET 8 for modern performance and C# features.
 
 
 ## Acknowledgements
@@ -59,7 +58,7 @@ Timestamp,com,force
 For detailed logs, check `MentalCommandsLogger.csv` or add debug output to `Program.cs`.
 
 ## Technical Notes
-- **Upgrade to .NET 8**: The project was upgraded from .NET Framework (used by the original Emotiv example) to .NET 8 for modern C# features and performance. Ensure `CortexAccess` is compatible with .NET 8 or isolate it in a .NET Framework project if needed.
+- **Upgrade to .NET 4.8**: The project was upgraded from .NET Framework 4.5.2 to .NET 8 for modern C# features and performance. 
 - **WebSocket Communication**: The Cortex SDK uses WebSocket to stream data from the Emotiv Cloud, ensuring real-time mental command updates.
 - **Data Handling**: Mental command data is parsed using `Newtonsoft.Json` and logged with timestamps for precise analysis.
 - **Extensibility**: The `DataStreamExample` class can be extended to support additional streams or custom processing.
