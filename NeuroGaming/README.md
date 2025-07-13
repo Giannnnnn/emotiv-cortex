@@ -1,15 +1,13 @@
 # NeuroGaming: Mind-Controlled Mouse with Emotiv Epoc X
 
-NeuroGaming is a C# project that extends an Emotiv Cortex SDK example project to enable hands-free mouse control using the Emotiv Epoc X headset. By processing real-time quaternion data for head motion and mental commands (e.g., *lift*, *drop*), it allows users to move the cursor and perform mouse clicks with their mind. This project is ideal for gaming, accessibility, and brain-computer interface (BCI) experimentation. Originally targeting .NET Framework, it has been upgraded to .NET 8 for modern performance and features.
+NeuroGaming is a C# project that extends an Emotiv Cortex SDK example project to enable hands-free mouse control using the Emotiv Epoc X headset. By processing real-time quaternion data for head motion and mental commands (e.g., *lift*, *drop*), it allows users to move the cursor and perform mouse clicks with their mind. This project is ideal for gaming, accessibility, and brain-computer interface (BCI) experimentation. 
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Emotiv/cortex-example/blob/master/LICENSE) file for details.
 
-Copyright (c) 2020 EMOTIV  
-Copyright (c) 2025 [Your Name]
 
 ## Acknowledgements
-- This project is a modified version of the [Emotiv Cortex SDK Example Project](https://github.com/Emotiv/cortex-example) (MIT License, Copyright (c) 2020 EMOTIV). Thank you to Emotiv for providing the foundation for headset integration.
+- This project is a modified version of the [Emotiv Cortex SDK Example Project](https://github.com/Emotiv/cortex-example/tree/master/csharp) (MIT License, Copyright (c) 2020 EMOTIV). Thank you to Emotiv for providing the foundation for headset integration.
 - New features, including quaternion-based cursor control, smoothing, and mental command mappings, were developed by [Your Name].
 - Built with the [Emotiv Cortex SDK](https://emotiv.gitbook.io/cortex-api/).
 - Thanks to the Emotiv developer community for inspiration and support.
@@ -45,7 +43,7 @@ The headset provides accelerometer (`ACCX`, `ACCY`, `ACCZ`) and magnetometer (`M
 - Emotiv Epoc X (or compatible Emotiv headset) or a simulated device (via Emotiv Launcher)
 
 ### Software
-- **.NET 8 SDK**: This project targets [.NET 8.0](https://dotnet.microsoft.com/download/dotnet/8.0). Install the .NET 8 SDK from Microsoft. Note: The project was upgraded from .NET Framework 4.8 (used by the original Emotiv example) to .NET 8 for improved performance and modern C# features.
+- **.NET 4.8 SDK**: This project targets [.NET 4.8](https://dotnet.microsoft.com/pt-br/download/dotnet-framework/net48). 
 - [Visual Studio 2022](https://visualstudio.microsoft.com/) (Community Edition or higher recommended).
 - [Emotiv Cortex SDK](https://github.com/Emotiv/cortex-example). A valid Emotiv account and license (free or paid) is required.
 
@@ -57,23 +55,24 @@ git clone https://github.com/your-username/NeuroGaming.git
 cd NeuroGaming
 ```
 
-### 2. Install the .NET 8 SDK
-- Download and install the .NET 8 SDK from [Microsoft’s .NET download page](https://dotnet.microsoft.com/download/dotnet/8.0).
+### 2. Install the .NET 4.8
+- Download and install  .NET 4.8
 - Verify installation:
   ```bash
   dotnet --list-sdks
-  ```
-  Ensure an `8.0.x` version (e.g., `8.0.204`) is listed.
+  ```.
 
-### 3. Configure the AppClientId and AppClientSecret
+### 3. Configure the AppClientId and AppClientSecret in CortexAccess
+- Edit `Config.cs` to set your AppClientId and ClientSecret details:
+  ```csharp
+  public static string AppClientId = ""; // Your ClientId
+   public static string AppClientSecret = "";// Your Client Secet
+  ```
          /*
          * To get a client id and a client secret, you must connect to your Emotiv
          * account on emotiv.com and create a Cortex app.
          * https://www.emotiv.com/my-account/cortex-apps/
          */
-
-- Access the project CortexAccess.csproj
-- Paste the keys of your apps in the desired place
 
 ### 4. Open in Visual Studio
 - Launch `NeuroGaming.sln` in Visual Studio 2022.
@@ -84,14 +83,6 @@ cd NeuroGaming
   ```bash
   dotnet build
   dotnet run
-  ```
-
-### 6. Configure the Headset
-- Edit `Program.cs` to set your headset and license details:
-  ```csharp
-  const string WantedHeadsetId = "EPOCX-XXXXXXXX"; // Optional: your headset’s ID
-  const string LicenseID = "";                     // Leave empty for auto-assigned license
-
   ```
 
 ## Usage
@@ -144,7 +135,7 @@ All data is logged to `NeuroGamingDataLogs.csv` in the project directory. Each l
 For detailed logs, check `MotionDataLogs.csv` or enable debug output in `Program.cs`.
 
 ## Technical Notes
-- **Upgrade to .NET 8**: The project was upgraded from .NET Framework 4.8 to .NET 8 for modern C# features (e.g., nullable reference types, implicit usings) and improved performance. Ensure all dependencies (e.g., `CortexAccess`) are compatible with .NET 8.
+- **Upgrade to .NET 4.8**: The project was upgraded from .NET Framework 4.5.2 to .NET 4.8 
 - **Quaternion Math**: Computes relative quaternions to measure head movement, reducing drift and ensuring accurate cursor control.
 - **Smoothing**: A moving average filter (`SmoothingWindow`) minimizes jitter for fluid cursor motion.
 - **Windows Dependency**: Uses `System.Windows.Forms` for cursor control, requiring Windows. Non-Windows platforms are not supported.
