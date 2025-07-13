@@ -49,6 +49,12 @@ This section describe structure overview, core classes and examples. The C# Cort
 * Notes: 
   - 1) Press Esc to flush data to output file and exit.
 
+**4. MentalCommandsLogger**
+* This example opens a session with the first Emotiv headset. Then subscribe and save mental commands data to MentalCommandsLogger.csv file until Esc key pressed.
+* The basic work-flow: Login via EMOTIV Launcher -> requestAccess-> Authorize() -> find and connect headset -> Create Session -> Subscribe Band Power data.
+* Notes: 
+  - 1) Press Esc to flush data to output file and exit.
+
 **4. MentalCommandTraining**
 * This example opens a session with the first Emotiv headset. Then User can create/load/unload profile then train actions following console guide.
 * The example demo for train: neutral, push, pull actions but you can add more actions as getDetectionInfo Output.
@@ -75,14 +81,21 @@ This section describe structure overview, core classes and examples. The C# Cort
 * Notes: 
   - 1) Press Esc to flush data to output file and exit.
   - 2) Each performance metric is a decimal number between 0 and 1. Zero means "low power", 1 means "high power". If the detection cannot run because of a bad contact quality then the value can also be **null**
+
+**9. NeuroGaming**
+* This example opens a session with the first available Emotiv headset, subscribes to motion and mental command data, and logs the output to a `MotionDataLogs.csv` file until the Esc key is pressed.
+* The basic work-flow: Login via EMOTIV Launcher -> requestAccess-> Authorize() -> find and connect headset -> Create Session -> subscribe to **motion (MOT)** and **mental command (COM)** data streams.
+* Notes: 
+1) Press **Esc** to flush data to the output file and exit the program.
+2) Calibration is done automatically on the first quaternion received.
+3) All motion and command data is saved to `MotionDataLogs.csv`, which is overwritten on each run.
+4) Each mental command includes a confidence value (`force`) from 0 (low intensity) to 1 (high intensity).
+5) Additional mental commands can be added by extending the `ConvertMentalCommandToMouseAction` method.
+
 ### Notes
 * You must login and logout via EMOTIV Launcher.
 * You must use EMOTIV Launcher to grant AccessRight for the App one time for one emotiv user.
 * You need a valid license to subscribe EEG data, Performance metrics data.
-* From Emotiv Cortex 3.7, you need to call ScanHeadsets() at HeadsetFinder.cs to start headset scanning. Otherwise your headsets might not appeared in the headset list return from queryHeadsets(). If IsHeadsetScanning = false, you need re-call the ScanHeadsets() if want to re-scan headsets again.
-* The Examples are only demo for some Apis not all apis and to be continue updating.
-
-
 * TODO: Basic UI for examples.
 
 ### References
