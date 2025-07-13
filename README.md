@@ -83,7 +83,7 @@ This section describe structure overview, core classes and examples. The C# Cort
   - 2) Each performance metric is a decimal number between 0 and 1. Zero means "low power", 1 means "high power". If the detection cannot run because of a bad contact quality then the value can also be **null**
 
 **9. NeuroGaming**
-* This example opens a session with the first available Emotiv headset, subscribes to motion and mental command data, and logs the output to a `MotionDataLogs.csv` file until the Esc key is pressed.
+* This example opens a session with the first available Emotiv headset, subscribes to motion and mental command data, and logs the output to a `NeuroGamingDataLogs.csv` file until the Esc key is pressed.
 * The basic work-flow: Login via EMOTIV Launcher -> requestAccess-> Authorize() -> find and connect headset -> Create Session -> subscribe to **motion (MOT)** and **mental command (COM)** data streams.
 * Notes: 
 1) Press **Esc** to flush data to the output file and exit the program.
