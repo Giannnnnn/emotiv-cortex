@@ -1,0 +1,15 @@
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\MentalCommandTraining\bin\Debug\MentalCommandTraining.exe.config
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\MentalCommandTraining\bin\Debug\MentalCommandTraining.exe
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\MentalCommandTraining\bin\Debug\MentalCommandTraining.pdb
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\MentalCommandTraining\bin\Debug\CortexAccess.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\MentalCommandTraining\bin\Debug\Newtonsoft.Json.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\MentalCommandTraining\bin\Debug\WebSocket4Net.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\MentalCommandTraining\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\MentalCommandTraining\bin\Debug\CortexAccess.pdb
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\MentalCommandTraining\bin\Debug\CortexAccess.dll.config
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\MentalCommandTraining\bin\Debug\Newtonsoft.Json.xml
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\MentalCommandTraining\obj\Debug\MentalCommandTraining.csproj.AssemblyReference.cache
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\MentalCommandTraining\obj\Debug\MentalCommandTraining.csproj.CoreCompileInputs.cache
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\MentalCommandTraining\obj\Debug\MentalCo.70A4938A.Up2Date
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\MentalCommandTraining\obj\Debug\MentalCommandTraining.exe
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\MentalCommandTraining\obj\Debug\MentalCommandTraining.pdb

@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "CortexAccess/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CortexAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CortexAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CortexAccess/1.0.0": {
+      "type": "project",
+      "path": "../CortexAccess/CortexAccess.csproj",
+      "msbuildProject": "../CortexAccess/CortexAccess.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "CortexAccess >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\girem\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\girem\\OneDrive\\Área de Trabalho\\emotiv\\cortex-example\\csharp\\NeuroGaming\\NeuroGaming.csproj",
+      "projectName": "NeuroGaming",
+      "projectPath": "C:\\Users\\girem\\OneDrive\\Área de Trabalho\\emotiv\\cortex-example\\csharp\\NeuroGaming\\NeuroGaming.csproj",
+      "packagesPath": "C:\\Users\\girem\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\girem\\OneDrive\\Área de Trabalho\\emotiv\\cortex-example\\csharp\\NeuroGaming\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\girem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\girem\\OneDrive\\Área de Trabalho\\emotiv\\cortex-example\\csharp\\CortexAccess\\CortexAccess.csproj": {
+              "projectPath": "C:\\Users\\girem\\OneDrive\\Área de Trabalho\\emotiv\\cortex-example\\csharp\\CortexAccess\\CortexAccess.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net8.0",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\EEGLogger\bin\Debug\EEGLogger.exe.config
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\EEGLogger\bin\Debug\EEGLogger.exe
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\EEGLogger\bin\Debug\EEGLogger.pdb
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\EEGLogger\bin\Debug\CortexAccess.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\EEGLogger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\EEGLogger\bin\Debug\WebSocket4Net.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\EEGLogger\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\EEGLogger\bin\Debug\CortexAccess.pdb
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\EEGLogger\bin\Debug\CortexAccess.dll.config
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\EEGLogger\bin\Debug\Newtonsoft.Json.xml
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\EEGLogger\obj\Debug\EEGLogger.csproj.AssemblyReference.cache
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\EEGLogger\obj\Debug\EEGLogger.csproj.CoreCompileInputs.cache
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\EEGLogger\obj\Debug\EEGLogger.csproj.Up2Date
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\EEGLogger\obj\Debug\EEGLogger.exe
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\EEGLogger\obj\Debug\EEGLogger.pdb

@@ -1,0 +1,15 @@
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\PMLogger\bin\Debug\PMLogger.exe.config
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\PMLogger\bin\Debug\PMLogger.exe
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\PMLogger\bin\Debug\PMLogger.pdb
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\PMLogger\bin\Debug\CortexAccess.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\PMLogger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\PMLogger\bin\Debug\WebSocket4Net.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\PMLogger\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\PMLogger\bin\Debug\CortexAccess.pdb
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\PMLogger\bin\Debug\CortexAccess.dll.config
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\PMLogger\bin\Debug\Newtonsoft.Json.xml
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\PMLogger\obj\Debug\PMLogger.csproj.AssemblyReference.cache
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\PMLogger\obj\Debug\PMLogger.csproj.CoreCompileInputs.cache
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\PMLogger\obj\Debug\PMLogger.csproj.Up2Date
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\PMLogger\obj\Debug\PMLogger.exe
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\PMLogger\obj\Debug\PMLogger.pdb

@@ -1,0 +1,15 @@
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\FacialExpressionTraining\bin\Debug\FacialExpressionTraining.exe.config
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\FacialExpressionTraining\bin\Debug\FacialExpressionTraining.exe
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\FacialExpressionTraining\bin\Debug\FacialExpressionTraining.pdb
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\FacialExpressionTraining\bin\Debug\CortexAccess.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\FacialExpressionTraining\bin\Debug\Newtonsoft.Json.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\FacialExpressionTraining\bin\Debug\WebSocket4Net.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\FacialExpressionTraining\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\FacialExpressionTraining\bin\Debug\CortexAccess.pdb
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\FacialExpressionTraining\bin\Debug\CortexAccess.dll.config
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\FacialExpressionTraining\bin\Debug\Newtonsoft.Json.xml
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\FacialExpressionTraining\obj\Debug\FacialExpressionTraining.csproj.AssemblyReference.cache
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\FacialExpressionTraining\obj\Debug\FacialExpressionTraining.csproj.CoreCompileInputs.cache
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\FacialExpressionTraining\obj\Debug\FacialEx.396EDFE3.Up2Date
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\FacialExpressionTraining\obj\Debug\FacialExpressionTraining.exe
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\FacialExpressionTraining\obj\Debug\FacialExpressionTraining.pdb

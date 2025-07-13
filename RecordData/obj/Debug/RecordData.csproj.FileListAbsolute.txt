@@ -1,0 +1,15 @@
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\RecordData\bin\Debug\RecordData.exe.config
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\RecordData\bin\Debug\RecordData.exe
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\RecordData\bin\Debug\RecordData.pdb
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\RecordData\bin\Debug\CortexAccess.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\RecordData\bin\Debug\Newtonsoft.Json.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\RecordData\bin\Debug\WebSocket4Net.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\RecordData\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\RecordData\bin\Debug\CortexAccess.pdb
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\RecordData\bin\Debug\CortexAccess.dll.config
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\RecordData\bin\Debug\Newtonsoft.Json.xml
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\RecordData\obj\Debug\RecordData.csproj.AssemblyReference.cache
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\RecordData\obj\Debug\RecordData.csproj.CoreCompileInputs.cache
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\RecordData\obj\Debug\RecordData.csproj.Up2Date
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\RecordData\obj\Debug\RecordData.exe
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\RecordData\obj\Debug\RecordData.pdb

@@ -1,0 +1,15 @@
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\BandPowerLogger\bin\Debug\BandPowerLogger.exe.config
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\BandPowerLogger\bin\Debug\BandPowerLogger.exe
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\BandPowerLogger\bin\Debug\BandPowerLogger.pdb
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\BandPowerLogger\bin\Debug\CortexAccess.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\BandPowerLogger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\BandPowerLogger\bin\Debug\WebSocket4Net.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\BandPowerLogger\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\BandPowerLogger\bin\Debug\CortexAccess.pdb
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\BandPowerLogger\bin\Debug\CortexAccess.dll.config
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\BandPowerLogger\bin\Debug\Newtonsoft.Json.xml
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\BandPowerLogger\obj\Debug\BandPowerLogger.csproj.AssemblyReference.cache
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\BandPowerLogger\obj\Debug\BandPowerLogger.csproj.CoreCompileInputs.cache
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\BandPowerLogger\obj\Debug\BandPowe.EA44EEBF.Up2Date
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\BandPowerLogger\obj\Debug\BandPowerLogger.exe
+C:\Users\girem\OneDrive\Área de Trabalho\emotiv\cortex-example\csharp\BandPowerLogger\obj\Debug\BandPowerLogger.pdb
